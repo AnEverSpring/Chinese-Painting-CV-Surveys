@@ -1,3 +1,11 @@
+## Introduction
+
+Chinese painting, as a significant component of traditional East Asian art, embodies rich visual semantics, symbolic abstraction, and unique structural composition rules. Unlike Western paintings that emphasize perspective realism, Chinese painting relies heavily on brushstroke representation, hierarchical composition, and semantic abstraction, posing distinctive challenges for computer vision analysis.
+
+This repository aims to systematically organize and review existing research at the intersection of Chinese painting and computer vision. We structure the literature from low-level visual feature extraction to high-level visual–semantic grounding, covering representative works in both traditional methods and modern deep learning approaches. Additionally, we collect relevant datasets to facilitate further research in this emerging field.
+
+We hope this survey can serve as a useful resource for researchers interested in digital humanities, computational aesthetics, and cross-domain visual understanding.
+
 ## Menu
 
 - [Papers](#papers)
@@ -1728,3 +1736,8 @@
   **Creator:** steubk
 
   **Introduction (English):** As a large-scale benchmark dataset for artistic image analysis, the WikiArt Dataset is derived from the WikiArt online art gallery, covering thousands of artworks from renowned artists worldwide. It includes diverse art styles (e.g., Impressionism, Cubism, Surrealism, Baroque), genres (portraits, landscapes, still lifes), and media (oil paintings, watercolors, sketches). Each artwork is annotated with metadata such as artist name, creation year, style category, and genre, providing a rich resource for research tasks like art style classification, style transfer, artistic sentiment analysis, and fine-grained artistic image recognition. The dataset has become a foundational resource in computer vision and digital art research, supporting the development and evaluation of models for artistic content understanding.
+
+
+## Cite This Survey
+
+If you find this repository useful for your research, please consider citing our paper:
