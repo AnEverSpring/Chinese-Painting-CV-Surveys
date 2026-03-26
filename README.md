@@ -1,1 +1,0 @@
-# Chinese-Painting-CV-Surveys
